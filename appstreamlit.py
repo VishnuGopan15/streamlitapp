@@ -1,7 +1,6 @@
 from PIL import Image
 import requests
 import streamlit as st
-import plotly.express as px
 import pandas as pd
 from streamlit_lottie import st_lottie
 st.set_page_config(page_title="Vishnu Gopan", page_icon=":tada:", layout="wide")
